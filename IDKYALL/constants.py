@@ -1,0 +1,15 @@
+screen_size = (640,750)
+screen_height = 750
+screen_width = 640
+white = (255,255,255)
+black = (0,0,0)
+grey = (35, 35, 35)
+indigo = (12, 4, 33)
+yellow = (255, 255, 0)
+red = (255, 0, 0)
+green = (0, 255, 0)
+blue = (0,0,255)
+set_speed = 7
+set_life = 10
+fps = 30
+damage = 4
